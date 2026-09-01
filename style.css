@@ -434,14 +434,5 @@ header p {
   margin: 5px 0 15px;
 }
 
-/* General body styling */
-body {
-  font-family: 'Roboto', Arial, sans-serif;
-  margin: 0;
-  background: linear-gradient(135deg, #0000ff, #8a2be2, #000000); 
-  /* blue → violet → black */
-  color: #fff;              /* switch to white text for contrast */
-  line-height: 1.6;
-  min-height: 100vh;        /* ensures gradient covers full screen */
-}
+
 
